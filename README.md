@@ -29,4 +29,4 @@ Below is a list of instructions to run the GUI in order to achieve desired outpu
 !['Export'](gif/Export.gif)
 
 Below is an example export from using the GUI. This is where all the people in the continental U.S. based on birth generation (Silent Generation, Baby Boomer, Generation X, Millennials, and Generation Z). The more purple, the older the generation. The more green, the younger. For more information about how I got this data, visit my other repository: https://github.com/Kyle-McNair/birth-generation-map
-!['Example'](export/export.png)
+!['Example'](export/Export.png)
